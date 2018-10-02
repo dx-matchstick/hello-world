@@ -8,5 +8,5 @@ def hello_world(name):
 
 
 if __name__ == "__main__":
-    app.run(host='65.88.88.177', port=5000)
+    app.run(host='0.0.0.0', port=8000)
 # github test
